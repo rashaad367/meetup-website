@@ -2,8 +2,13 @@ body {
     background-color: #cddbe9 !important;
 }
 
+header,
+footer {
+    background-image: url(../images/Hexagon.svg);
+}
+
 .custom-bg {
-    background-image: url(images/Hexagon.svg);
+    background-color: darkslategrey;
     background-size: cover;
     background-position: center;
     opacity: 0.9;
@@ -76,7 +81,7 @@ i:hover {
     color: rgb(85, 193, 230);
 }
 
-@media only screen and (min-width: 80px) and (max-width: 1080px) {
+@media only screen and (min-width: 80px) and (max-width: 480px) {
 
     input,
     select,
