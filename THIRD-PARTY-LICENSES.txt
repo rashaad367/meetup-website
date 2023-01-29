@@ -1,0 +1,9 @@
+Library name: bootstrap
+Version: 5.3.0
+License: MIT License
+License Link: https://github.com/twbs/bootstrap/blob/main/LICENSE
+
+Library name: Font-Awesome
+Version: 6.2.1
+License: SIL OFL 1.1 and MIT licenses
+License Link: https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt
