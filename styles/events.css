@@ -6,8 +6,13 @@ a {
     text-decoration: none;
 }
 
+header,
+footer {
+    background-image: url(../images/Hexagon.svg);
+}
+
 .custom-bg {
-    background-image: url(images/Hexagon.svg);
+    background-color: darkslategrey;
     background-size: cover;
     background-position: center;
     opacity: 0.9;
